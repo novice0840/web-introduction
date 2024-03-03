@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+section {
+  width: 800px;
+  /* height: 500px; */
+}
+
+img {
+  width: 150px;
+  height: 180px;
+}
+
+table {
+  text-align: center;
+  font-size: 12px;
+}
+
+td {
+  border: 1px solid;
+}
+
+button {
+  background-color: skyblue;
+  border: none;
+  color: white;
+}
